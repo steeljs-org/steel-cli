@@ -1,10 +1,10 @@
-# Steel-Commander
+# Steel-CLI
 > 
 ###Attention
 >Currently, it is not recommanded using the GUI mode,cause there are some bug of nodejs.
 
 ###Instal
-Install globally with `npm install -g steel-commander`.
+Install globally with `npm install -g steel`.
 
 ###Commander Support
 

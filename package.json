@@ -2,7 +2,7 @@
   "name": "steel",
   "description": "The steel controller module",
   "version": "0.1.2",
-  "homepage": "https://github.com/steeljs-org/steel-cli#readme",
+  "homepage": "https://github.com/steeljs-org/steel-cli#README",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/steeljs-org/steel-cli.git"
@@ -13,7 +13,8 @@
   },
   "tags": [
     "steel",
-    "system"
+    "system",
+    "cli"
   ],
   "bin": {
     "steel": "./bin/steel.js"
@@ -72,21 +73,16 @@
       "email": "lonefy@foxmail.com"
     }
   ],
-  "dist": {
-    "shasum": "288ec1b2bd0e992c5b1b299770a908992f55b690",
-    "tarball": "http://registry.npmjs.org/steel-commander/-/steel-commander-0.0.18.tgz"
-  },
   "bugs": {
     "url": "hhttps://github.com/steeljs-org/steel-cli/issues  "
   },
   "scripts": {},
   "_shasum": "288ec1b2bd0e992c5b1b299770a908992f55b690",
-  "_from": "steel-commander@*",
+  "_from": "steel@*",
   "_npmUser": {
     "name": "lonefy",
     "email": "lonefy@foxmail.com"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/steel-commander/-/steel-commander-0.0.18.tgz",
   "readme": "ERROR: No README data found!"
 }
