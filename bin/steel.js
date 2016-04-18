@@ -15,7 +15,7 @@ var tasks = argv._;
 var Command = require('../lib/command');
 
 var CWD = process.cwd();
-var configBase = path.join(CWD, "node_modules", "steel-commander");
+var configBase = path.join(CWD, "node_modules", "steel");
 var cmd = tasks[0];
 
 
@@ -70,7 +70,7 @@ function steelEnv() {
     env.configBase = configBase;
     env.configPath = CWD + '/steelfile.js';
     env.modulePath = configBase + '/index.js';
-    // env.configBase = CWD + '/node_modules/steel-commander';
+    // env.configBase = CWD + '/node_modules/steel';
     // env.configPath = env.configBase + '/steelfile.js';
     // env.modulePath = env.configBase + '/index.js'
 
