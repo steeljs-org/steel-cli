@@ -68,8 +68,8 @@ function steelEnv() {
     //Paths
     env.cwd = CWD;
     env.configBase = configBase;
-    env.configPath = CWD + '/steelfile.js';
-    env.modulePath = configBase + '/index.js';
+    env.configPath = path.join(CWD , 'steelfile.js');
+    env.modulePath = path.join(configBase , 'index.js');
     // env.configBase = CWD + '/node_modules/steel';
     // env.configPath = env.configBase + '/steelfile.js';
     // env.modulePath = env.configBase + '/index.js'
