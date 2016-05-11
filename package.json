@@ -1,48 +1,4 @@
 {
-  "_args": [
-    [
-      "steel",
-      ""
-    ],
-    [
-      "steel",
-      ""
-    ],
-    [
-      "steel",
-      ""
-    ]
-  ],
-  "_from": "steel@latest",
-  "_id": "steel@0.1.41",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/steel",
-  "_nodeVersion": "5.9.1",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/steel-0.1.41.tgz_1461742249354_0.4112698519602418"
-  },
-  "_npmUser": {
-    "email": "lonefy@foxmail.com",
-    "name": "lonefy"
-  },
-  "_npmVersion": "3.7.3",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "steel",
-    "raw": "steel",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_shrinkwrap": null,
-  "_spec": "steel",
-  "_where": "",
   "author": {
     "email": "lonefy@foxmail.com",
     "name": "Lonefy"
@@ -68,7 +24,6 @@
     "pretty-hrtime": "^0.2.0",
     "ria-generator": "*",
     "semver": "^4.1.0",
-    "steel-version": "*",
     "tildify": "^1.0.0",
     "v8flags": "^2.0.2",
     "vinyl-fs": "^0.3.0"
@@ -113,7 +68,7 @@
     "system",
     "cli"
   ],
-  "version": "0.1.41",
+  "version": "0.1.42",
   "workDependencies": {
     "del": "1.1.1",
     "gulp": "3.8.11",
