@@ -1,7 +1,7 @@
 # Steel-CLI
 > 
 ###Attention
->Currently, it is not recommanded using the GUI mode,cause there are some bug of nodejs.
+>Currently, it is not recommanded using the GUI mode on WinOS,cause there are some bug of nodejs.
 
 ###Install
 Install globally with `npm install -g steel`.
